@@ -2,3 +2,6 @@
 
 2. LEDs painting. A board of RGB LEDs, or regular LEDs(if I can change their intensity) and from phone choose a picture and the board of LEDs will try and replicate that picture.
 
+3. A device that if it senses smoke or humidity starts a fan. If I make it good, I will probably use it in my bathroom and my room.
+
+4. Holographic fan. A motor that is spinning. On the spinning part is attached some fixed part on which are attached LEDs. When the motor spins fast the leds will be able to show a message. 
