@@ -1,0 +1,4 @@
+1. A LED that lights up when it's dark and feels movement. I will need a motion sensor, light sensor and LEDs.
+
+2. LEDs painting. A board of RGB LEDs, or regular LEDs(if I can change their intensity) and from phone choose a picture and the board of LEDs will try and replicate that picture.
+
