@@ -35,6 +35,8 @@ Optional:
 
 For these connections to work we may use several jumper wires depending of our setup.
 
+Then we just need to power up the raspberry pi and then connect to it with putty or VNC server and run in terminal 'python program.py'. Some Pins might be interchanged, but they need to be set also in the program.py. 
+
 
 
 ![alt text](https://github.com/at-cs-ubbcluj-ro/solo-project-PetqDrekoj/blob/master/presentation.gif)
