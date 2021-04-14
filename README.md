@@ -33,3 +33,6 @@ Setup and Build Plan
 3) We will set up the ultrasound sensor. We will also need a ground, a current of 5V, 2 BCM/GPIO pins. We will register the Echo and Trigger from these 2 BCM ports. For the Echo port we need firstly to connect it to a resistor of 270 ohm and then connect it to raspberry pi. 
 
 For these connections to work we may use several jumper wires depending of our setup.
+
+Here I have a link of a YouTube presentation 
+https://www.youtube.com/watch?v=U8aAcIitLM0
