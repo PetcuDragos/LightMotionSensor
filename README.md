@@ -14,6 +14,8 @@ Pre-requisites
 Raspberry Pi 3+ 
 Light Intensity Sensor (BH1750)
 Ultrasonic Sensor (HC-SR04)
+1 breadboard
+12 jumper wires
 1 LED (red/yellow/green LED)
 2 270 ohm resistors
 1 680 ohm resistor
