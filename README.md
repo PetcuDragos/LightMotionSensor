@@ -7,9 +7,10 @@ Overview
  I will build a device that has a red LED that lights up when it's dark and feels movement. I will need a motion sensor, light sensor and a LED.
 
 Schematics
-
+![alt text](https://github.com/at-cs-ubbcluj-ro/solo-project-PetqDrekoj/blob/master/Schematic.PNG?raw=true)
 
 Pre-requisites
+
 Raspberry Pi 3+ 
 Light Intensity Sensor (BH1750)
 Ultrasonic Sensor (HC-SR04)
