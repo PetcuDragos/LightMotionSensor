@@ -36,5 +36,8 @@ Optional:
 For these connections to work we may use several jumper wires depending of our setup.
 
 
+
+![alt text](https://github.com/at-cs-ubbcluj-ro/solo-project-PetqDrekoj/blob/master/presentation.gif)
+
 Here I have a link of a YouTube presentation 
 https://www.youtube.com/watch?v=U8aAcIitLM0
