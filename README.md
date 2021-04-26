@@ -3,8 +3,8 @@ solo-project-PetqDrekoj created by GitHub Classroom
 
 
 # Overview
+For my individual project I have decided to build something that will require motion sensor. So my idea is to build a device that has a red LED that lights up when it's dark and feels movement. But in order to do that I am going to need a motion sensor, a light intensity sensor and an LED. The motion sensor will detect when something is near, and the light intensity detects if outside is day or night, the LED here is a replacement for a light bulb. This system is similar to the one used in the flat area when you get near the entrance, when, in case it's dark, a light will shine so you can see the surroundings.
 
- I will build a device that has a red LED that lights up when it's dark and feels movement. I will need a motion sensor, light sensor and a LED.
 
 # Schematics
 ![alt text](https://github.com/at-cs-ubbcluj-ro/solo-project-PetqDrekoj/blob/master/Schematic.PNG?raw=true)
@@ -43,3 +43,6 @@ Then we just need to power up the raspberry pi and then connect to it with putty
 
 Here I have a link of a YouTube presentation 
 https://www.youtube.com/watch?v=U8aAcIitLM0
+
+# Conclusions
+After working with these sensors, I have come to the conclusion that the light intensity sensor can be easily tricked with a flashlight during nighttime or something that may cover it up during daytime and it will work unadequately. One solution will be to insert time verification so it lights only at specific hours or time frames. Another problem is that the motion sensor can be tricked, but that may be sorted out with some software geeks. One more thing is that I would like in future to change the LED to a light buld and the raspberry pi to something small because it doesn;t need every aspect of the raspberry pi. 
